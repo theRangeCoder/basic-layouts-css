@@ -1,3 +1,13 @@
 img {
     border: 10px black solid;
 }
+
+/* Styling the header */
+header {
+    background-color: rgb(46, 44, 53);
+    color: aquamarine;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
