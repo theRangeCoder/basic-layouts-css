@@ -1,5 +1,12 @@
+body {
+    margin: 0px;
+}
+
 img {
     border: 10px black solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
 }
 
 /* Styling the header */
@@ -13,11 +20,13 @@ header {
 }
 
 /* Styling the main */
-main {
+main {  
     background-color: lightblue;
     width: 600px;
     padding: 20px;
     border: 5px red solid;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Styling the footer */
