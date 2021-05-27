@@ -1,7 +1,10 @@
+/* Global styles */
 body {
     margin: 0;
     font-size: 21px;
 }
+
+/* Typography */
 
 h1 {
     font-size: 48px;
@@ -14,6 +17,8 @@ h2 {
 h3 {
     font-size: 28px;
 }
+
+/* Layout */
 
 header {
     background-color: #588C94;
